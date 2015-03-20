@@ -1,0 +1,1 @@
+This project is based on Eclipse RCP. The objective is to provide front-end implementation for the project "algo-trader".
